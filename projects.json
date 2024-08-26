@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Street Artist",
+    "description": "Street artist is a SPA project where you as customer can find art pieces for buying. Also, if you are an artist, you can create your own gallery and keep track of your finances.",
+    "images": [
+      "/images/street_artist/street_artist_01.png",
+      "/images/street_artist/street_artist_02.png",
+      "/images/street_artist/street_artist_03.png"
+    ],
+    "details": "Utilised Vanilla JavaScript",
+    "link": "https://github.com/nikoletastamenkovska/street_artists_2023/tree/main",
+    "video": "https://www.youtube.com/watch?v=example"
+  },
+  {
+    "title": "Street Artist",
+    "description": "Street artist is a SPA project where you as customer can find art pieces for buying. Also, if you are an artist, you can create your own gallery and keep track of your finances.",
+    "images": [
+      "/images/street_artist/street_artist_01.png",
+      "/images/street_artist/street_artist_02.png",
+      "/images/street_artist/street_artist_03.png"
+    ],
+    "details": "Utilised Vanilla JavaScript",
+    "link": "https://github.com/nikoletastamenkovska/street_artists_2023/tree/main",
+    "video": "https://www.youtube.com/watch?v=example"
+  },
+  {
+    "title": "Street Artist",
+    "description": "Street artist is a SPA project where you as customer can find art pieces for buying. Also, if you are an artist, you can create your own gallery and keep track of your finances.",
+    "images": [
+      "/images/street_artist/street_artist_01.png",
+      "/images/street_artist/street_artist_02.png",
+      "/images/street_artist/street_artist_03.png"
+    ],
+    "details": "Utilised Vanilla JavaScript",
+    "link": "https://github.com/nikoletastamenkovska/street_artists_2023/tree/main",
+    "video": "https://www.youtube.com/watch?v=example"
+  }
+]
